@@ -2,11 +2,15 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Juan Aguilar",
 	"description": "This is a project developed for a course of nodejs",
-	"keywords": [ "nodejs", "freecodecamp", "backend" ],
+	"keywords": [
+		"nodejs",
+		"freecodecamp",
+		"backend"
+	],
 	"license": "MIT",
-	"version": "1.2.0", 
+	"version": "1.2.0",
 	"dependencies": {
-		"moment": "2.14.0"
+		"moment": "^2.29.4"
 	},
 	"main": "server.js",
 	"scripts": {
